@@ -74,6 +74,22 @@
     .call-button:hover {
       background-color: #e6b800;
     }
+    
+    .whatsapp-button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 24px;
+  background-color: #25d366;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.whatsapp-button:hover {
+  background-color: #1ebd5a;
+}
 
     .map {
       margin: 10px;
